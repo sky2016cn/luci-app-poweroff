@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.2.4\n"
-"Last-Translator: eSirPlayground <https://www.youtube.com/c/esirplayground>\n"
+"Last-Translator: sky2016cn <https://www.youtube.com/sky2016cn>\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Language: zh_CN\n"
 
